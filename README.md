@@ -1,4 +1,4 @@
-# 1-How-do-driverless-vehicles-make-decisions
+# 1 - How do driverless vehicles make decisions?
 
 This repository is dedicated to the ["How do driverless vehicles make decisions?" Two Week Project on YouTube](https://www.youtube.com/watch?v=mbrCQlZ-AYE&t=484s) completed in November 2020.
 
